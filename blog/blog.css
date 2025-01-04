@@ -25,16 +25,59 @@ h1{
     text-align: center;
     display: flex;
     justify-content: center;
-    background-color: blueviolet; 
+    background-color: darksalmon; 
 }
 .line{
     text-align: center;
     display: flex;
     justify-content: center;
     color: dimgrey;
-    background-color: black;
+    background-color: greenyellow;
 }
 .fa{
-    height: 400px;
-    background-image: url('');
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+}
+.f{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: royalblue;
+}
+#song{
+    text-align: center;
+    background-color: darksalmon;
+    border: solid tomato;
+    margin: 5px 300px 5px 300px;
+}
+.yb{
+    background-color: cyan;
+    color: darkgray;
+}
+.biriyan{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: bisque;
+}
+H3{
+    text-align: center;
+}
+.kala{
+    width: 1070px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+h4{
+    text-align: center;
+}
+.com{
+    display: flex;
+    text-align: center;
+    justify-content: center;
 }
