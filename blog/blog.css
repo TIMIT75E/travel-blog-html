@@ -1,0 +1,40 @@
+h1{
+    color: purple;text-align: center;background-color: aqua; border: solid rgba(27, 1, 1, 0.813);
+}
+.border{
+    border: solid black 2px;
+}
+.img{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+#para{
+    background-color: rgba(4, 116, 116, 0.838);
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.b{
+    color: blanchedalmond; background-color: gray;
+}
+.k{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet; 
+}
+.line{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: dimgrey;
+    background-color: black;
+}
+.fa{
+    height: 400px;
+    background-image: url('');
+}
